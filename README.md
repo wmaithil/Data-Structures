@@ -1,2 +1,2 @@
 # Data-Structures
-Online travel booking applications in C++ using Data Structures.
+Online travel booking application in C++ using Data Structures.
